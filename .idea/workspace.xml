@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a58c179b-4647-4986-83aa-6f98b476a5dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor/MainEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Create_Class/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Create_Class/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Create_Class/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Create_Class/Person2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Override_Method/BirthdayCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Override_Method/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Override_Method/Holiday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Override_Method/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Reptile.java" afterDir="false" />
-    </list>
+    <list default="true" id="a58c179b-4647-4986-83aa-6f98b476a5dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,10 +57,24 @@
       <workItem from="1708422395320" duration="897000" />
       <workItem from="1708441632156" duration="3284000" />
       <workItem from="1708447904112" duration="26000" />
+      <workItem from="1708448405016" duration="129000" />
     </task>
+    <task id="LOCAL-00001" summary="echo &quot;# OOP-Java&quot; &gt;&gt; README.md&#10;git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/veasnasong/OOP-Java.git&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1708448464245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708448464245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="echo &quot;# OOP-Java&quot; &gt;&gt; README.md&#10;git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/veasnasong/OOP-Java.git&#10;git push -u origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="echo &quot;# OOP-Java&quot; &gt;&gt; README.md&#10;git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/veasnasong/OOP-Java.git&#10;git push -u origin main" />
   </component>
 </project>
