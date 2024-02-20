@@ -61,7 +61,8 @@
       <workItem from="1708447904112" duration="26000" />
       <workItem from="1708448405016" duration="129000" />
       <workItem from="1708448543162" duration="680000" />
-      <workItem from="1708450132713" duration="485000" />
+      <workItem from="1708450132713" duration="739000" />
+      <workItem from="1708450895148" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="echo &quot;# OOP-Java&quot; &gt;&gt; README.md&#10;git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/veasnasong/OOP-Java.git&#10;git push -u origin main">
       <option name="closed" value="true" />
@@ -79,11 +80,30 @@
       <option name="project" value="LOCAL" />
       <updated>1708448589407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git remote add origin https://github.com/veasnasong/OOP-Java.git&#10;git branch -M main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1708450642960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708450642960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="echo &quot;# OOP-Java&quot; &gt;&gt; README.md&#10;git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/veasnasong/OOP-Java.git&#10;git push -u origin main" />
